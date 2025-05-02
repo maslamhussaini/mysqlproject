@@ -46,6 +46,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 =======
 >>>>>>> dad085e (Initial commit from Create Next App)
+=======
+.env
+>>>>>>> 24e0ef7 (Huge Updates)
