@@ -51,3 +51,5 @@ This directory contains example API routes for the headless API app.
 For more details, see [route.js file convention](https://nextjs.org/docs/app/api-reference/file-conventions/route).
 =======
 >>>>>>> dad085e (Initial commit from Create Next App)
+
+public
