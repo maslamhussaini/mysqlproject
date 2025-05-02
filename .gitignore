@@ -28,16 +28,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
 
 # local env files
 .env*.local
-=======
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
 .env*
->>>>>>> dad085e (Initial commit from Create Next App)
 
 # vercel
 .vercel
@@ -45,11 +42,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
-<<<<<<< HEAD
 .env
-=======
->>>>>>> dad085e (Initial commit from Create Next App)
-=======
-.env
->>>>>>> 24e0ef7 (Huge Updates)
